@@ -1,0 +1,32 @@
+#page {
+	width: 300px;
+	max-width: 300px;
+	min-width: 270px;
+	margin: 50px auto auto auto;
+}
+#logo {
+	width: 250px;
+	margin: 10px auto 10px auto;
+}
+#footer {
+	width: 250px;
+	margin: 10px auto 10px auto;
+	text-align: center;
+}
+#flickr_badge_wrapper {
+	width: 250px;
+	margin: 10px auto 10px auto;
+}
+.flickr_badge_image {float: right; margin: 0 0px 0px 5px;}
+.flickr_badge_image img {
+	border: 1px solid #121621 !important;
+	-webkit-opacity: 1;
+	-moz-opacity: 1;
+	opacity: 1;
+}
+.flickr_badge_image img:hover {
+	border: 1px solid black !important;
+	-webkit-opacity: 0.75;
+	-moz-opacity: 0.75;
+	opacity: 0.75;
+}
